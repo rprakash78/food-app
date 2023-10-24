@@ -1,0 +1,263 @@
+[
+    {
+      restaurant_id: 1,
+      place: 'City Center',
+      address: '123 Main Street',
+      menu: [
+            { item: 'Burger', price: 10
+            },
+            { item: 'Pizza', price: 12
+            },
+            { item: 'Salad', price: 8
+            },
+        ],
+    },
+    {
+      restaurant_id: 2,
+      place: 'Downtown',
+      address: '456 Elm Street',
+      menu: [
+            { item: 'Steak', price: 15
+            },
+            { item: 'Pasta', price: 11
+            },
+            { item: 'Soup', price: 6
+            },
+        ],
+    },
+    {
+      restaurant_id: 3,
+      place: 'West End',
+      address: '789 Oak Avenue',
+      menu: [
+            { item: 'Sushi', price: 18
+            },
+            { item: 'Ramen', price: 14
+            },
+            { item: 'Tempura', price: 12
+            },
+        ],
+    },
+    {
+      restaurant_id: 4,
+      place: 'Uptown',
+      address: '101 Pine Road',
+      menu: [
+            { item: 'Burger', price: 9
+            },
+            { item: 'Fries', price: 4
+            },
+            { item: 'Milkshake', price: 6
+            },
+        ],
+    },
+    {
+      restaurant_id: 5,
+      place: 'Midtown',
+      address: '222 Maple Lane',
+      menu: [
+            { item: 'Tacos', price: 8
+            },
+            { item: 'Burrito', price: 10
+            },
+            { item: 'Quesadilla', price: 7
+            },
+        ],
+    },
+    {
+      restaurant_id: 6,
+      place: 'Waterfront',
+      address: '333 River Drive',
+      menu: [
+            { item: 'Fish and Chips', price: 14
+            },
+            { item: 'Clam Chowder', price: 9
+            },
+            { item: 'Shrimp Scampi', price: 16
+            },
+        ],
+    },
+    {
+      restaurant_id: 7,
+      place: 'Downtown',
+      address: '444 Elm Street',
+      menu: [
+            { item: 'Sushi', price: 18
+            },
+            { item: 'Sashimi', price: 20
+            },
+            { item: 'Miso Soup', price: 6
+            },
+        ],
+    },
+    {
+      restaurant_id: 8,
+      place: 'City Center',
+      address: '555 Main Street',
+      menu: [
+            { item: 'Pizza', price: 12
+            },
+            { item: 'Pasta', price: 11
+            },
+            { item: 'Caesar Salad', price: 8
+            },
+        ],
+    },
+    {
+      restaurant_id: 9,
+      place: 'Uptown',
+      address: '666 Pine Road',
+      menu: [
+            { item: 'Burger', price: 10
+            },
+            { item: 'Onion Rings', price: 5
+            },
+            { item: 'Chocolate Shake', price: 7
+            },
+        ],
+    },
+    {
+      restaurant_id: 10,
+      place: 'Midtown',
+      address: '777 Maple Lane',
+      menu: [
+            { item: 'Tacos', price: 8
+            },
+            { item: 'Enchiladas', price: 12
+            },
+            { item: 'Guacamole', price: 6
+            },
+        ],
+    },
+    {
+      restaurant_id: 11,
+      place: 'Waterfront',
+      address: '888 River Drive',
+      menu: [
+            { item: 'Seafood Platter', price: 20
+            },
+            { item: 'Lobster Bisque', price: 10
+            },
+            { item: 'Crab Cakes', price: 16
+            },
+        ],
+    },
+    {
+      restaurant_id: 12,
+      place: 'West End',
+      address: '999 Oak Avenue',
+      menu: [
+            { item: 'Sushi', price: 18
+            },
+            { item: 'Ramen', price: 14
+            },
+            { item: 'Gyoza', price: 8
+            },
+        ],
+    },
+    {
+      restaurant_id: 13,
+      place: 'Downtown',
+      address: '111 Pine Road',
+      menu: [
+            { item: 'Burger', price: 10
+            },
+            { item: 'Fries', price: 4
+            },
+            { item: 'Milkshake', price: 6
+            },
+        ],
+    },
+    {
+      restaurant_id: 14,
+      place: 'City Center',
+      address: '222 Main Street',
+      menu: [
+            { item: 'Tacos', price: 8
+            },
+            { item: 'Burrito', price: 10
+            },
+            { item: 'Quesadilla', price: 7
+            },
+        ],
+    },
+    {
+      restaurant_id: 15,
+      place: 'Uptown',
+      address: '333 Elm Street',
+      menu: [
+            { item: 'Fish and Chips', price: 14
+            },
+            { item: 'Clam Chowder', price: 9
+            },
+            { item: 'Shrimp Scampi', price: 16
+            },
+        ],
+    },
+    {
+      restaurant_id: 16,
+      place: 'Midtown',
+      address: '444 Maple Lane',
+      menu: [
+            { item: 'Sushi', price: 18
+            },
+            { item: 'Sashimi', price: 20
+            },
+            { item: 'Miso Soup', price: 6
+            },
+        ],
+    },
+    {
+      restaurant_id: 17,
+      place: 'Waterfront',
+      address: '555 River Drive',
+      menu: [
+            { item: 'Pizza', price: 12
+            },
+            { item: 'Pasta', price: 11
+            },
+            { item: 'Caesar Salad', price: 8
+            },
+        ],
+    },
+    {
+      restaurant_id: 18,
+      place: 'West End',
+      address: '666 Oak Avenue',
+      menu: [
+            { item: 'Burger', price: 10
+            },
+            { item: 'Onion Rings', price: 5
+            },
+            { item: 'Chocolate Shake', price: 7
+            },
+        ],
+    },
+    {
+      restaurant_id: 19,
+      place: 'Downtown',
+      address: '777 Pine Road',
+      menu: [
+            { item: 'Tacos', price: 8
+            },
+            { item: 'Enchiladas', price: 12
+            },
+            { item: 'Guacamole', price: 6
+            },
+        ],
+    },
+    {
+      restaurant_id: 20,
+      place: 'City Center',
+      address: '888 Main Street',
+      menu: [
+            { item: 'Seafood Platter', price: 20
+            },
+            { item: 'Lobster Bisque', price: 10
+            },
+            { item: 'Crab Cakes', price: 16
+            },
+        ],
+    },
+];
+  
